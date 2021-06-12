@@ -1,3 +1,7 @@
+Dijkstra PathFinding Algorithm created in React.JS.
+
+Thanks to Pathfinding visualiser youtube tutorial by Clement Mihailescu.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
